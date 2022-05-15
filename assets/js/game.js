@@ -45,4 +45,6 @@ else {
 
 };
 
+
+// this is a comment 
 fight(); 
